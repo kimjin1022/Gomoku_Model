@@ -35,18 +35,6 @@ CNN 기반 모델과 minimax 알고리즘을 활용한 모델을 각각 구현�
 
 
 ## 🚀 실행 방법
-```bash
-# 가상 환경 생성 (선택 사항)
-python -m venv gomoku_env
-source gomoku_env/bin/activate  # Mac/Linux
-gomoku_env\Scripts\activate  # Windows
-
-# 필수 라이브러리 설치
-pip install -r requirements.txt
-
-# 실행
-python main.py
-```
 📌 **추후 GUI 및 추가 기능 업데이트 예정 🚧**
 
 ---
